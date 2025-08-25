@@ -1,8 +1,8 @@
-Overview
+Overview：
 This dataset contains four representative server topology configurations designed for evaluating distributed multimodal generative model orchestration systems. The datasets simulate real-world distributed computing infrastructures with distinct geographical characteristics and network scales, specifically designed for reinforcement learning-based resource optimization research.
 Dataset Description
 
-Server Topologies
+Server Topologies：
 The dataset includes four main server topology configurations (S1-S4) that represent different scales and deployment scenarios:
 S1 - Switzerland Region (Small-scale High-density)
 
@@ -35,7 +35,7 @@ Nodes: 31 densely deployed servers
 Deployment Type: Urban edge computing scenario
 Use Case: Edge intelligence in smart cities evaluation
 
-Model Deployment
+Model Deployment：
 Each topology contains a comprehensive set of generative models distributed across nodes:
 
 Total Models: 227 generative models per topology
