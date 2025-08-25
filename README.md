@@ -50,11 +50,3 @@ Training and Testing Split
 Training Set: 1,000 user tasks per topology
 Test Set: 200 independent tasks per topology
 Special Configuration: S4 serves exclusively as a test set for cross-domain generalization evaluation
-
-Task Characteristics
-Each task includes the following attributes:
-
-User Geographical Location: Spatial coordinates for location-aware scheduling
-Model Invocation Sequence: 5-step sequential model calls
-Quality-Speed Preference: Weight values in 0-1 range
-Data Scale: Variable data size ranging from 2-521 units
